@@ -1,2 +1,2 @@
-# betterquesting-configreader
-Web application for viewing quest books created with betterquesting
+# BetterquestingConfigreader
+Web viewer for quest books created with the BetterQuesting mod.
